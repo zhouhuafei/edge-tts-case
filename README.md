@@ -1,4 +1,13 @@
-## 命令
+## 安装
+`pip3 install edge-tts`
+
+## 删除
+删除audios目录里的所有文件
+
+## 运行
+`python ./scripts/20230419.py`
+
+## 其他
 * 帮助命令：`edge-tts --help`。
 * 发音列表：`edge-tts --list-voices`。
 * 读取文件： `-f ./something.txt`。
