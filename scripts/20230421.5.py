@@ -3,8 +3,8 @@
 import os
 
 filename = os.path.basename(__file__)
-# 如果鲁迅也炒股
-textStr = '我家门前有两棵树，一棵是绿枣树，另一棵也是绿枣树。'
+# 70还剩44
+textStr = '70入市，到如今还剩44。不知和各位相比，我这算不算惨？'
 voiceArr = ['XiaoxiaoNeural']
 
 for v in voiceArr:
