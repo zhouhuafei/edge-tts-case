@@ -3,8 +3,8 @@
 import os
 
 filename = os.path.basename(__file__)
-# 蜀道难
-textStr = './texts/蜀道难.txt'
+# 谴责上汽集团、海螺水泥、中科电气、中荣股份、赣能股份、杉杉股份的下跌行为
+textStr = f'./texts/{filename}.txt'
 voiceArr = ['XiaoxiaoNeural']
 
 for v in voiceArr:
