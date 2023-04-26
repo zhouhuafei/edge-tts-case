@@ -3,7 +3,7 @@
 import os
 
 filename = os.path.basename(__file__)
-# 炒股4年，70还剩41.81。
+# 股市是本无所谓有，无所谓无的。
 textStr = f'./texts/{filename}.txt'
 voiceArr = ['XiaoxiaoNeural']
 
