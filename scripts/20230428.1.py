@@ -3,7 +3,7 @@
 import os
 
 filename = os.path.basename(__file__)
-# 70还剩38
+# 70还剩40
 textStr = f'./texts/{filename}.txt'
 voiceArr = ['XiaoxiaoNeural']
 
